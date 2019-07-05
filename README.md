@@ -17,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-The login.dart file  in the lib folder was for reference.It has nothing to do with the application
