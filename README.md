@@ -1,10 +1,7 @@
-Signup
+# Signup
 
-This cross platform application registers users who want to upload thier products on our website. This also helps the user to upload products to make thier products get featured.
+This cross platform application functions as an admin side of an e-commerce application where admins can register themselves and upload thier products to get featured.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
