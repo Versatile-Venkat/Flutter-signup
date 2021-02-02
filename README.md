@@ -1,6 +1,6 @@
-# signup
+Signup
 
-A new Flutter project.
+This cross platform application registers users who want to upload thier products on our website. This also helps the user to upload products to make thier products get featured.
 
 ## Getting Started
 
